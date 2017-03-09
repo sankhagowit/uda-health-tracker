@@ -1,0 +1,24 @@
+{
+  "name": "udacity-health-tracker",
+  "description": "Health Tracker Udacity Front End Project",
+  "main": "index.js",
+  "authors": [
+    "Bobby Sankhagowit"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "backbone",
+    "health",
+    "tracker",
+    "firebase"
+  ],
+  "homepage": "https://github.com/sankhagowit/uda-health-tracker",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

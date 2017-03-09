@@ -1,0 +1,25 @@
+{
+  "name": "udacity-health-tracker",
+  "version": "1.0.0",
+  "description": "Health Tracker Udacity Front End Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankhagowit/uda-health-tracker.git"
+  },
+  "keywords": [
+    "backbone",
+    "health",
+    "tracker",
+    "firebase"
+  ],
+  "author": "Bobby Sankhagowit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankhagowit/uda-health-tracker/issues"
+  },
+  "homepage": "https://github.com/sankhagowit/uda-health-tracker#readme"
+}
